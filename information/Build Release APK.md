@@ -29,7 +29,7 @@
                 ...
     ```
 
-3. Add this code:
+3. Add this code: (Remove this code after build apk)
     ```gradle
         ndk {
             abiFilters 'armeabi-v7a'
