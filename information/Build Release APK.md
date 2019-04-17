@@ -11,7 +11,7 @@
 * The DESTINATION_PATH is raccomanded the same project directory
 # Reference the keystore from the app
 1.	Same in the website
-2.	Add in.. (OPTIONAL: why add this code? More information in https://medium.com/flutterpub/flutter-app-couldnt-find-libflutter-so-c95ad81cbccd )
+2.	Add in.. (OPTIONAL: why add this code? [More information](https://medium.com/flutterpub/flutter-app-couldnt-find-libflutter-so-c95ad81cbccd))
 `android {
      ...
      defaultConfig {
