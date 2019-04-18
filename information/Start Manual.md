@@ -42,5 +42,5 @@ Permit to communicate with JSON File
     - For Different Splash Screen Image or/and Icon App
 2. More Utility
     - [Flutter Awesome](https://github.com/Solido/awesome-flutter/blob/master/README.md)(**HEI GRAPHIC DESIGNER**)
-    - [More Icon](http://fluttericon.com/)(**HEI GRAPHIC DESIGNER**) _To be evaluated in more depth_
+    - [More Icon](http://fluttericon.com/)(**HEI GRAPHIC DESIGNER**) _For install icon_(https://medium.com/flutterpub/how-to-use-custom-icons-in-flutter-834a079d977)
     - [Generator Icon](https://romannurik.github.io/AndroidAssetStudio/index.html)(**HEI GRAPHIC DESIGNER**) _To be evaluated in more depth_
