@@ -29,8 +29,9 @@ Permit to communicate with JSON File
     - [ReactiveConf 2018 - Brian Egan & Filip Hracek: Practical Rx with Flutter](https://www.youtube.com/watch?v=7O1UO5rEpRc)
 2. **Highly Recommended** [Simple Exercise](https://medium.com/flutter-community/flutter-bloc-with-streams-6ed8d0a63bb8)
 3. Best Architecture your code, [Dash](https://medium.com/flutter-community/announcing-dash-bloc-provider-made-easy-985f84a68f22) But nod tested
-4. Communicate with WebSite With Json File, [http](http://virtuooza.com/build-android-application-using-flutter-wordpress-api/)
-
+4. Communicate with WebSite With Json File
+    - [Basic Information](https://developer.wordpress.org/rest-api/)
+    - [Flutter Code](http://virtuooza.com/build-android-application-using-flutter-wordpress-api/)
 ## HEI Programmer
 
 1. [GitHub](https://github.com/) Use it, I would not want you to break your PC and lose everything... Then who feels the boss?
