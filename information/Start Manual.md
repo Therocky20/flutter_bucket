@@ -26,10 +26,10 @@ Permit to communicate with JSON File
 ## Start Code: Basic Guide
 
 1. Architecture your code, basics, [BLoC](https://www.didierboelens.com/2018/08/reactive-programming---streams---bloc/)
+    - [ReactiveConf 2018 - Brian Egan & Filip Hracek: Practical Rx with Flutter](https://www.youtube.com/watch?v=7O1UO5rEpRc)
 2. **Highly Recommended** [Simple Exercise](https://medium.com/flutter-community/flutter-bloc-with-streams-6ed8d0a63bb8)
 3. Best Architecture your code, [Dash](https://medium.com/flutter-community/announcing-dash-bloc-provider-made-easy-985f84a68f22) But nod tested
 4. Communicate with WebSite With Json File, [http](http://virtuooza.com/build-android-application-using-flutter-wordpress-api/)
-
 
 ## HEI Programmer
 
