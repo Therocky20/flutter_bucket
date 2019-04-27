@@ -50,13 +50,13 @@ Abbiatene cura.
 
 ### Icone
 
-Per le icone consultare questa [pagina](http://fluttericon.com/).
+Per le icone consultare [Flutter Icon](http://fluttericon.com/).
 
 - Le icone integrabili senza problemi sono:
   - Material Desing Icon
   - Font Awesome
 - Per le altre icone chiedere al programmatore
-- Per aggiungerne di nuove bisong ancora informarsi
+- Per aggiungerne di nuove bisongna ancora informarsi
 
 _Perchè non utilizzare le immagini al posto delle icone?_
     - Le immagini non si adattano in modo automatico alla risoluzione del dispositivo
