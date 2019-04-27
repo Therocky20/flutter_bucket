@@ -37,7 +37,8 @@ Non sono in ordine di importanza.
   <img src="/images/flowchart.png" width="350" alt="accessibility text">
     Un Esempio molto semplice ma sbagliato. Per farvi capire.
 </p>
-2. Dare un significato sensato alle img.
+
+2. Dare un significato sensato alle img
 3. Le uniche immagini necessarie sono quelle di copertina e per la Demo di una sola dimensione, la più grande.
     Facciamo un esempio. Le img delle icone, sono inutili, utilizzate le icone definite in precedenza, le immagini dei bottoni pure, vengono ricreati a livello di codice. Le img che fanno da copertina sono quelle utili, img del ristorante, img del piatto, img delle tipologie, ecc..
 
