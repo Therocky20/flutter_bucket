@@ -1,12 +1,13 @@
 # Soluzione migliore per collaborare
 
 Tutto quanto verrà aggiornato man mano.
+Date inizialmente un'occhiata ai termini a fine pagina per una maggiore comprensione del testo.
 
 ## Regole per Aiutare il Programmatore
 
 Non sono in ordine di importanza.
 
-1. Tutte i testi con le medesime funzioni dovrebbero avere lo stesso style.
+1. Tutti i testi con le medesime funzioni dovrebbero avere lo stesso style.
     - Se necessario si può cambiare style ma dando un senso. Mi spiego:
         - Tutti i prezzi degli alimenti in rosso, tutti i prezzi dei drink, in verde. Non deve cambiare il colore per schermata ma per significato che acquisisce il prezzo per dare meno confusione anche a chi usa l'app.
     - Esempio: Il prezzo dei prodotti nelle varie schermate dovrà essere sempre rosso e sottolineato. Non dovrebbero cambiare in ogni schermata.
