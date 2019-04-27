@@ -29,7 +29,7 @@ Non sono in ordine di importanza.
 
 1. Create un diagramma di flusso prima di creare l'app.
     - Rettangoli: rappresentano una View
-    - Romi: Rappresentano una scelta un bottone.
+    - Rombi: Rappresentano una scelta un bottone.
     Perchè è utile? Per voi per progettare al meglio la UserExperience, per capire a colpo d'occhio dove si sta creando confusione o ripetendo pulsanti o funzioni e al programmatore per creare la Basi di Dati(Database) o per capire cose si può e non può fare.
     Non va snelizzato. Anzi qualsiasi cosa il cliente vorrebbe va disegnata.
 2. Dare un significato sensato alle img.
