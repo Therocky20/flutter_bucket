@@ -5,6 +5,16 @@ Date inizialmente un'occhiata ai termini a fine pagina per una maggiore comprens
 
 Mi scuso per il linguaggio molto grezzo. E' per essere veloce e chiaro e in brevi termini, buona lettura.
 
+## Una piccola introduzione
+
+1. La app funziona a screen. Ogni screen ha delle proprietà uniche:
+    - Una sola AppBar o una sola [SliverAppBar](https://www.youtube.com/watch?v=R9C5KMJKluE&t=2s)
+    - Al massimo due drawer, uno a sinistra e uno a destra. (Il drawer di sinistra sostituisce il backButton)
+    - Una sola BottomBar
+2. In uno screen ci possono essere più page. Le page sono gestite da:
+    - BottomBar: minimo 2, massimo 5
+    - TabBar: minimo 2, massimo infinito. La TabBar non deve contenere nessuna proprietà degli screen
+
 ## Regole per Aiutare il Programmatore
 
 Non sono in ordine di importanza.
@@ -74,9 +84,12 @@ _Perchè non utilizzare le immagini al posto delle icone?_
 - **img**: Immagini
 - **Widget**: Tutto ciò che si vede a schermo, un testo, un'icona, un'immagine, un layout(a colonna, a riga, a griglia), le barre in alto in basso, tutto.
 - **View**: Un'insieme di Widget che rappresentano un'interfaccia utente o una pagina con un significato ben preciso. 
+- **Page**: Identifica una view associata a un bottone di un BottomBar per esempio.
 - **screen**: Schermata dell'app.
 
 - **AppBar**: La barra in alto che contiene il titolo e la azione, il drawer e il button di back(indietro).
+- **[SliverAppBar]**(https://www.youtube.com/watch?v=R9C5KMJKluE&t=2s)
+- **BackButton**: Bottone che si trova all'inizio dell'AppBar, permette di tornare al screen precedente.
 - **Drawer**: Il menu Laterale a sinistra o a destra.
 - **BottomBar**: La barra in basso per la navigazione in modo istantaneo.
 - **TabBar**: La barra che permette di naviagare tra le TabView si trova generalmente sopra quest'ultime.
