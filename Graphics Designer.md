@@ -73,5 +73,4 @@ _Perchè non utilizzare le immagini al posto delle icone?_
 - **BottomBar**: La barra in basso per la navigazione in modo istantaneo.
 - **TabBar**: La barra che permette di naviagare tra le TabView si trova generalmente sopra quest'ultime.
 
-![alt text](https://github.com/BreX900/flutter_bucket/blob/master/image/screen1.jpg)
-![alt text](https://github.com/BreX900/flutter_bucket/blob/master/image/screen2.jpg)
+![alt text](https://github.com/BreX900/flutter_bucket/blob/master/images/screen1.jpg) ![alt text](https://github.com/BreX900/flutter_bucket/blob/master/images/screen2.jpg)
