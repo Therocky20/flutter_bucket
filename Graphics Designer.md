@@ -25,8 +25,6 @@ Non sono in ordine di importanza.
     - Esempio: 'caption' per tutto ciò che è un postscriptum ad esempio
     - Esempio: 'display1' con fontsize 12 e in grasetto e in rosso per il prezzo
 
-![alt text](https://github.com/BreX900/flutter_bucket/blob/master/icons/social/twitter_circle.png)
-
 ## Richieste
 
 1. Create un diagramma di flusso prima di creare l'app.
@@ -65,7 +63,15 @@ _Perchè non utilizzare le immagini al posto delle icone?_
 
 ## Termini
 
-- **Widget**: Tutto ciò che si vede a schermo, un testo, un'icona, un'immagine, un layout(a colonna, a riga, a griglia), le barre in alto in basso, tutto.
-- **View**: Un'insieme di Widget che rappresentano una schermata o una pagina con un significato ben preciso.
 - **img**: Immagini
+- **Widget**: Tutto ciò che si vede a schermo, un testo, un'icona, un'immagine, un layout(a colonna, a riga, a griglia), le barre in alto in basso, tutto.
+- **View**: Un'insieme di Widget che rappresentano un'interfaccia utente o una pagina con un significato ben preciso. 
 - **screen**: Schermata dell'app.
+
+- **AppBar**: La barra in alto che contiene il titolo e la azione, il drawer e il button di back(indietro).
+- **Drawer**: Il menu Laterale a sinistra o a destra.
+- **BottomBar**: La barra in basso per la navigazione in modo istantaneo.
+- **TabBar**: La barra che permette di naviagare tra le TabView si trova generalmente sopra quest'ultime.
+
+![alt text](https://github.com/BreX900/flutter_bucket/blob/master/image/screen1.jpg)
+![alt text](https://github.com/BreX900/flutter_bucket/blob/master/image/screen2.jpg)
