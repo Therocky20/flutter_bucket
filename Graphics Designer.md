@@ -13,7 +13,7 @@ Mi scuso per il linguaggio molto grezzo. E' per essere veloce e chiaro e in brev
     - Una sola BottomBar
 2. In uno screen ci possono essere più page. Le page sono gestite da:
     - BottomBar: minimo 2, massimo 5
-    - TabBar: minimo 2, massimo infinito. La TabBar non deve contenere nessuna proprietà degli screen
+    - TabBar: minimo 2, massimo infinito. Le view della TabBar non deve contenere nessuna proprietà degli screen
 
 ## Regole per Aiutare il Programmatore
 
