@@ -75,6 +75,5 @@ _Perchè non utilizzare le immagini al posto delle icone?_
 
 <p align="center">
   <img src="/images/screen1.jpg" width="350" title="hover text">
-  <img src="images/screen2.jpg" width="350" alt="accessibility text">
+  <img src="/images/screen2.jpg" width="350" alt="accessibility text">
 </p>
-![alt text](https://github.com/BreX900/flutter_bucket/blob/master/images/screen1.jpg) ![alt text](https://github.com/BreX900/flutter_bucket/blob/master/images/screen2.jpg)
