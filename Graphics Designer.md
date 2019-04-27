@@ -3,6 +3,8 @@
 Tutto quanto verrà aggiornato man mano.
 Date inizialmente un'occhiata ai termini a fine pagina per una maggiore comprensione del testo.
 
+Mi scuso per il linguaggio molto grezzo. E' per essere veloce e chiaro e in brevi termini, buona lettura.
+
 ## Regole per Aiutare il Programmatore
 
 Non sono in ordine di importanza.
