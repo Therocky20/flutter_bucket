@@ -88,7 +88,7 @@ _Perchè non utilizzare le immagini al posto delle icone?_
 - **screen**: Schermata dell'app.
 
 - **AppBar**: La barra in alto che contiene il titolo e la azione, il drawer e il button di back(indietro).
-- **[SliverAppBar]**(https://www.youtube.com/watch?v=R9C5KMJKluE&t=2s)
+- [**SliverAppBar**](https://www.youtube.com/watch?v=R9C5KMJKluE&t=2s)
 - **BackButton**: Bottone che si trova all'inizio dell'AppBar, permette di tornare al screen precedente.
 - **Drawer**: Il menu Laterale a sinistra o a destra.
 - **BottomBar**: La barra in basso per la navigazione in modo istantaneo.
