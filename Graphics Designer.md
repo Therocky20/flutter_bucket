@@ -35,6 +35,7 @@ Non sono in ordine di importanza.
     Non va snelizzato. Anzi qualsiasi cosa il cliente vorrebbe va disegnata.
 <p align="center">
   <img src="/images/flowchart.png" width="350" alt="accessibility text">
+    Un Esempio molto semplice ma sbagliato. Per farvi capire.
 </p>
 2. Dare un significato sensato alle img.
 3. Le uniche immagini necessarie sono quelle di copertina e per la Demo di una sola dimensione, la più grande.
