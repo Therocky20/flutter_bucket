@@ -25,6 +25,8 @@ Non sono in ordine di importanza.
     - Esempio: 'caption' per tutto ciò che è un postscriptum ad esempio
     - Esempio: 'display1' con fontsize 12 e in grasetto e in rosso per il prezzo
 
+![alt text](https://github.com/BreX900/flutter_bucket/blob/master/icons/social/twitter_circle.png)
+
 ## Richieste
 
 1. Create un diagramma di flusso prima di creare l'app.
