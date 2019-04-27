@@ -33,6 +33,9 @@ Non sono in ordine di importanza.
     - Rombi: Rappresentano una scelta un bottone.
     Perchè è utile? Per voi per progettare al meglio la UserExperience, per capire a colpo d'occhio dove si sta creando confusione o ripetendo pulsanti o funzioni e al programmatore per creare la Basi di Dati(Database) o per capire cose si può e non può fare.
     Non va snelizzato. Anzi qualsiasi cosa il cliente vorrebbe va disegnata.
+<p align="center">
+  <img src="/images/flowchart.png" width="350" alt="accessibility text">
+</p>
 2. Dare un significato sensato alle img.
 3. Le uniche immagini necessarie sono quelle di copertina e per la Demo di una sola dimensione, la più grande.
     Facciamo un esempio. Le img delle icone, sono inutili, utilizzate le icone definite in precedenza, le immagini dei bottoni pure, vengono ricreati a livello di codice. Le img che fanno da copertina sono quelle utili, img del ristorante, img del piatto, img delle tipologie, ecc..
