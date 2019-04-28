@@ -37,6 +37,12 @@ Non sono in ordine di importanza.
     - Esempio: 'subTitle' usatelo per i titoli dei paragrafi
     - Esempio: 'caption' per tutto ciò che è un postscriptum ad esempio
     - Esempio: 'display1' con fontsize 12 e in grasetto e in rosso per il prezzo
+7. Per i colori vedi [Color Theme Creation](https://material.io/design/color/#color-theme-creation)
+    Generalmente si ha:
+    - un colore primario _prymarySwatch / primaryColor_
+    - un colore per bottoni _buttonColor_
+    - un colore per evidenziazioni _accentColor_ (Esempio, arrivato a fine pagina/fine scrolling)
+    - un colore per errori _errorColor_
 
 ## Richieste
 
@@ -66,7 +72,9 @@ Per le icone consultare [Flutter Icon](http://fluttericon.com/).
   - Material Desing Icon
   - Font Awesome
 - Per le altre icone chiedere al programmatore
-- Per aggiungerne di nuove bisongna ancora informarsi
+- Per aggiungere nuove icon crearne di nuove in formato svg(Grafica vettoriale) tramite per esempio [Adobe Illustrator](https://www.adobe.com/it/products/illustrator.html)
+    - Il programmatore una volta ricevuto il file svg andrà su Flutter Icon e si dorvà trascinare l'icona
+    - _Ancora da provare_
 
 _Perchè non utilizzare le immagini al posto delle icone?_
     - Le immagini non si adattano in modo automatico alla risoluzione del dispositivo
