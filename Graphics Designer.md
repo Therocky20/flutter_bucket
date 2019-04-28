@@ -49,7 +49,7 @@ Non sono in ordine di importanza.
         - un colore per errori _errorColor_
     - Servono altri colori? Non saremmo più in stile Material Design, possiamo fare questo strappo alla regola ma preferiamo di no se è possibile    
 
-## Richieste
+## Richieste se potete
 
 1. Create un diagramma di flusso prima di creare l'app.
     - Rettangoli: rappresentano una View
@@ -77,7 +77,7 @@ Per le icone consultare [Flutter Icon](http://fluttericon.com/).
   - Material Desing Icon
   - Font Awesome
 - Per le altre icone chiedere al programmatore
-- Per aggiungere nuove icon crearne di nuove in formato svg(Grafica vettoriale) tramite per esempio [Adobe Illustrator](https://www.adobe.com/it/products/illustrator.html)
+- Per aggiungere nuove icon crearne di nuove in formato svg(Grafica vettoriale, svg icon/font) tramite per esempio [Adobe Illustrator](https://www.adobe.com/it/products/illustrator.html)
     - Il programmatore una volta ricevuto il file svg andrà su Flutter Icon e si dorvà trascinare l'icona
     - _Ancora da provare_
 
