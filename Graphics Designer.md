@@ -38,7 +38,7 @@ Non sono in ordine di importanza.
     - Esempio: 'caption' per tutto ciò che è un postscriptum ad esempio
     - Esempio: 'display1' con fontsize 12 e in grasetto e in rosso per il prezzo
 7. Per i colori vedi [Color Theme Creation](https://material.io/design/color/#color-theme-creation)
-    - Nell'ultima versione d Flutter si preferische: (in [ColorScheme](https://docs.flutter.io/flutter/material/ColorScheme-class.html))
+    - Nell'ultima versione d Flutter si preferisce: (in [ColorScheme](https://docs.flutter.io/flutter/material/ColorScheme-class.html))
         - **primary**: Rappresenta il colore primario dell'app, si ritrova nella AppBar per esempio
         - **secondary**: Rappresenta il colore secondario, si ritrova nei bottoni, nella TabBar, nei Switch ecc...
         - **error**: Rappresenta il colore che segnala un errore
