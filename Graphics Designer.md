@@ -47,6 +47,7 @@ Non sono in ordine di importanza.
         - un colore per bottoni _buttonColor_
         - un colore per evidenziazioni _accentColor_ (Esempio, arrivato a fine pagina/fine scrolling)
         - un colore per errori _errorColor_
+    - Servono altri colori? Non saremmo più in stile Material Design, possiamo fare questo strappo alla regola ma preferiamo di no se è possibile    
 
 ## Richieste
 
