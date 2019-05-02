@@ -1,6 +1,7 @@
 # Firestore
 
 [How to Structure Your Data](https://www.youtube.com/watch?v=haMOUb3KVSo)
+[Write Information](https://angularfirebase.com/lessons/firestore-nosql-data-modeling-by-example/)
 
 ## Regole
 
@@ -36,6 +37,6 @@ E le review? In una collezione dentro ad ogni documento. Path: /restaurant/<IdRe
 #### Review Problem
 
 E se l'utente navigandando torna avanti e indietro dalla _pagina lista ristoranti_ alla _pagina dettaglio ristorante_?
-- Scarichiamo ogni volta tutte le review del suddetto ristorante?...
+- Scarichiamo ogni volta tutte le review del suddetto ristorante?... Per ora si, non so come sincronizzare i dati
 
 
