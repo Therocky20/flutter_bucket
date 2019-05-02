@@ -12,6 +12,12 @@
 5. Query find document in collections - Le query cercano solo in una collezione di documenti
 6. Array are weird - Gli array sono strani (altre traduzioni?)
 
+## Standard
+
+- Le collezioni, array o map vanno chiamati con nomi plurali, (_reviews, restaurants, types_)
+- La tipologia dei nomi è la seguente (_restaurant_manager_), No camelCamel
+- Da sinistra verso destra, categoria che raggruppa di più a categoria che ragruppa meno (_reviews_it, reviews_en, types_food_)
+
 ## Esempio Pratico
 
 Abbiamo una serie di ristoranti
