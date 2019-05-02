@@ -20,19 +20,16 @@ Abbiamo una serie di ristoranti
 
 App: Pagina Lista Ristoranti -> Pagina Dettaglio Ristorantea
 
-| --- | --- | --- |
 | Restaurant | nome | rating |
-| --- | --- | --- |
 
 ### Restaurant and Review 
 
 E le review? In una collezione dentro ad ogni documento. Path: /restaurant/<IdRestaurant>/review/<IdReview>
 
-| --- | --- | --- | --- |
 | Restaurant | nome | rating | _review_ |
-| --- | --- | --- | --- |
+| ---    | ---    | ---    | ---  |
 | Review | userId | rating | text | 
-| --- | --- | --- | --- |
+
 
 #### Review Problem
 
