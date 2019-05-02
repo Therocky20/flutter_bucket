@@ -27,8 +27,7 @@ App: Pagina Lista Ristoranti -> Pagina Dettaglio Ristorantea
 E le review? In una collezione dentro ad ogni documento. Path: /restaurant/<IdRestaurant>/review/<IdReview>
 
 | Restaurant | nome | rating | _review_ |
-| ---    | ---    | ---    | ---  |
-| Review | userId | rating | text | 
+- | Review | userId | rating | text | 
 
 
 #### Review Problem
