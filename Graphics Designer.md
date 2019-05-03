@@ -31,6 +31,7 @@ Non sono in ordine di importanza.
 4. La TabBar, ha solo la funzione di scorrimento delle view, lasciategli questa funzione e basta.
 5. Il Drawer non è permanente in ogni screen, si potrebbe fare ma è meglio evitare. Se necessaria una funzione del genere usate la BottomBar.
 6. Flutter usa dei themi prestabiliti per il testo, consulta [TextTheme](https://docs.flutter.io/flutter/material/TextTheme-class.html) nella seconda tabella.
+    - [Lista font](https://fonts.google.com/)
     I temi 'displayX' sono consogliati per essere molto costumizzabili. Sottolineatura, grassetto, dimensioni ecc...
     Cercate di dare un significato a ogni thema.
     - Esempio: 'title' usatelo per i titoli dei ristornati
@@ -40,6 +41,7 @@ Non sono in ordine di importanza.
 7. Per i colori vedi [Color Theme Creation](https://material.io/design/color/#color-theme-creation)
     - Nell'ultima versione d Flutter si preferisce: (in [ColorScheme](https://docs.flutter.io/flutter/material/ColorScheme-class.html))
         - **primary**: Rappresenta il colore primario dell'app, si ritrova nella AppBar per esempio
+        - **primaryVariation: ...
         - **secondary**: Rappresenta il colore secondario, si ritrova nei bottoni, nella TabBar, nei Switch ecc...
         - **error**: Rappresenta il colore che segnala un errore
     - Nelle verisione più vecchie:
