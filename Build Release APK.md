@@ -27,6 +27,9 @@
             ...
             defaultConfig {
                 ...
+                buildTypes {
+                     release {
+                     ....
     ```
 
 3. Add this code: (Remove this code after build apk)
