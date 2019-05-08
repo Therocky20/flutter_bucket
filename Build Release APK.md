@@ -29,11 +29,9 @@
     ```gradle
         android {
             ...
-            defaultConfig {
-                ...
-                buildTypes {
-                     release {
-                     ....
+             buildTypes {
+                  release {
+                  ....
     ```
 
 3. Add this code: (Remove this code after build apk)
