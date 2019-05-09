@@ -31,7 +31,7 @@ Permit to communicate with JSON File
 2. **Highly Recommended** [Simple Exercise](https://medium.com/flutter-community/flutter-bloc-with-streams-6ed8d0a63bb8)
 3. Best Architecture your code, [Dash](https://medium.com/flutter-community/announcing-dash-bloc-provider-made-easy-985f84a68f22) But nod tested
 4. Communicate with WebSite With Json File
-    - [Basic Information](https://developer.wordpress.org/rest-api/)
+    - [Basic Information](https://developer.wordpress.org/rest-api/) [More](https://www.html.it/pag/64507/i-plugin-di-wordpress-attivare-la-rest-api/)
     - [Flutter Code](http://virtuooza.com/build-android-application-using-flutter-wordpress-api/)
 ## HEI Programmer
 
