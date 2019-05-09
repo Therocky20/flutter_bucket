@@ -1,7 +1,8 @@
 # Firestore
 
-[How to Structure Your Data](https://www.youtube.com/watch?v=haMOUb3KVSo)
+[How to Structure Your Data](https://www.youtube.com/watch?v=haMOUb3KVSo) [More](https://firebase.google.com/docs/database/web/structure-data)
 [Write Information](https://angularfirebase.com/lessons/firestore-nosql-data-modeling-by-example/)
+
 
 ## Regole
 
