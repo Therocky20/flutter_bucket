@@ -3,6 +3,8 @@
 - [How to Structure Your Data](https://www.youtube.com/watch?v=haMOUb3KVSo) 
   - [More](https://firebase.google.com/docs/database/web/structure-data)
 - [Write Information](https://angularfirebase.com/lessons/firestore-nosql-data-modeling-by-example/)
+- [Plugin Utili](https://github.com/flutter/plugins/blob/master/FlutterFire.md)
+- [Implementazione](https://firebase.google.com/docs/cloud-messaging/?authuser=3#implementation_paths)
 
 
 ## Regole
