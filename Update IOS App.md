@@ -50,6 +50,6 @@ Shift+P+CMD = Lista dei comandi per comodità CMD
   
 ## Hai finito!
 
-Nei commenti della pubblicazione sul AppStore aggiungi [questo](https://stackoverflow.com/questions/55773206/flutter-appstore-rejection-for-contains-obfuscated-code-or-selector-mangling):
+Nei commenti della pubblicazione sul AppStore aggiungi quanto segue sennò te la rifiuteranno [fonte](https://stackoverflow.com/questions/55773206/flutter-appstore-rejection-for-contains-obfuscated-code-or-selector-mangling):
 This app was entirely written in Objective-C to just meet the functionality documented in the App 'Description' section. There are no obfuscated code, selector mangling, or features meant to subvert the App Review process.
 
