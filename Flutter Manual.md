@@ -17,8 +17,15 @@
   - [ColorScheme](https://api.flutter.dev/flutter/material/ColorScheme-class.html) la classe che definisce i colori della tua
   - [Tools](https://material.io/tools/color/#!/?view.left=0&view.right=0)
 6. [Altre linee guida](https://github.com/BreX900/flutter_bucket/blob/master/Buon%20Codice.md)
+7. [GitHub](https://github.com/) Utlizza questo servizio per salvare in cloud il tuo progetto e per poterlo condividere in caso di necessità
 
 ## More Utility
 
 - [Flutter Awesome](https://github.com/Solido/awesome-flutter/blob/master/README.md)
 - [Plugins Utili](https://github.com/BreX900/flutter_bucket/blob/master/plugins_flutter.md)
+- [WordPress REST APi](https://github.com/BreX900/flutter_bucket/blob/master/WordPress%20REST%20Api.md)
+
+
+## Altro di poca rilevanza
+
+- [Internationalization Tutorial](https://medium.com/@datvt9312/flutter-internationalization-tutorials-part-2-intl-package-approach-and-as-plugin-approach-b0aabdb254d8)
