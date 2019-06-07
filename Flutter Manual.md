@@ -6,6 +6,12 @@
 
 ## Start Code: Basic Guide
 
+- 'const' E' molto **importante!!**
+    1. Cosa fa? Salva in una speciale HashMap l'oggetto segnato dal _const_: const SizedBox(height: 16.0)
+    2. Come risparmia RAM? Se un oggetto contrassegnato con _const_ viene inizializzato viene prima controllato se esiste già nell HashMap.
+        - In caso positivo viene preso l'oggetto già esistente
+        - In caso negativo viene creato e salvato nell'HashMap
+    3. Cosa non permette di fare? Tutti gli oggetti marcati const non possono essere modificati in alcun modo    
 - L'architettura base per il tuo codice [BLoC](https://www.didierboelens.com/2018/08/reactive-programming---streams---bloc/)
     - [ReactiveConf 2018 - Brian Egan & Filip Hracek: Practical Rx with Flutter](https://www.youtube.com/watch?v=7O1UO5rEpRc)
     - [More Information](https://medium.com/flutterpub/effective-bloc-pattern-45c36d76d5fe)
