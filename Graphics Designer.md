@@ -40,9 +40,10 @@ Non sono in ordine di importanza.
     - Esempio: 'display1' con fontsize 12 e in grasetto e in rosso per il prezzo
 7. Per i colori vedi [Color Theme Creation](https://material.io/design/color/#color-theme-creation)
     - Nell'ultima versione d Flutter si preferisce: (in [ColorScheme](https://docs.flutter.io/flutter/material/ColorScheme-class.html))
-        - **primary**: Rappresenta il colore primario dell'app, si ritrova nella AppBar per esempio
-        - **primaryVariation: ...
-        - **secondary**: Rappresenta il colore secondario, si ritrova nei bottoni, nella TabBar, nei Switch ecc...
+        - **primary**: Colore primario dell'App, ha la funzione di estetica, si ritrova nella AppBar per esempio
+        - **primaryVariation: Variante del colore primarie, ha le funzioni di estetica ma secondarie
+        - **secondary**: Colore secondario, ha la funzione di essere premuto, si ritrova nei bottoni, nella TabBar, nei Switch ecc...
+        - **secondaryVariant: Variante del colore secondario, ha la funzione di essere premuto con meno rilevanza
         - **error**: Rappresenta il colore che segnala un errore
     - Nelle verisione più vecchie:
         - un colore primario _prymarySwatch / primaryColor_
@@ -52,16 +53,6 @@ Non sono in ordine di importanza.
     - Servono altri colori? Non saremmo più in stile Material Design, possiamo fare questo strappo alla regola ma preferiamo di no se è possibile    
 
 ## Richieste se potete
-
-1. Create un diagramma di flusso prima di creare l'app.
-    - Rettangoli: rappresentano una View
-    - Rombi: Rappresentano una scelta un bottone.
-    Perchè è utile? Per voi per progettare al meglio la UserExperience, per capire a colpo d'occhio dove si sta creando confusione o ripetendo pulsanti o funzioni e al programmatore per creare la Basi di Dati(Database) o per capire cose si può e non può fare.
-    Non va snelizzato. Anzi qualsiasi cosa il cliente vorrebbe va disegnata.
-<p align="center">
-  <img src="/images/flowchart.png" width="350" alt="accessibility text">
-    Un Esempio molto semplice ma sbagliato. Per farvi capire.
-</p>
 
 2. Dare un significato sensato alle img
 3. Le uniche immagini necessarie sono quelle di copertina e per la Demo di una sola dimensione, la più grande.
