@@ -19,7 +19,7 @@
 ## Create a keystore
 
 1. open the cmd in the java bin folder (for example: C:\Program Files\Java\jdk1.8.0_201\bin or AndroidStudio/jre/bin)
-2. Execute: keytool -genkey -v -keystore <DESTINATION_PATH>key.jks -keyalg RSA -keysize 2048 -validity 10000 -alias key
+2. Execute: keytool -genkey -v -keystore "DESTINATION_PATH/key.jks" -keyalg RSA -keysize 2048 -validity 10000 -alias key
    - The DESTINATION_PATH is raccomanded the same project directory
 
 ## Reference the keystore from the app
